@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aswin Narayan</h1>
 <h3 align="center">Im A Data Science & CyberSec Student at The University of Sydney</h3>
 
-- 🔭 I’m currently working on [NBA Draft Prospect Analysis](https://github.com/Aswin043/nba-draft-prospect)
+- 🔭 I’m currently working on [Champs Winner Predictio](https://github.com/Aswin043/champs-predicts-valo)
 
-- 🌱 I’m currently learning **MLOP's,AIOP's,Data Analysis**
+- 🌱 I’m currently learning **MLOP's,AIOP's,Data Analysis,CyberSec,Linux**
 
 - 👨‍💻 All of my projects are available at [https://nobrainportfolio.vercel.app](https://nobrainportfolio.vercel.app)
 
